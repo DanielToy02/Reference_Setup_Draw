@@ -1,6 +1,6 @@
 void setup() {
 size(500,400);
-frameRate(30);
+
 background(255,0,0);
 }
 
