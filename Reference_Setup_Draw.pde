@@ -8,3 +8,4 @@ void draw() {
 noStroke();
 fill(random(255));
 ellipse(mouseX,mouseY,random(10),random(75));
+}
